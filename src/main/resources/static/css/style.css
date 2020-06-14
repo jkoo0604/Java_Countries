@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.container {
+	margin: auto;
+	margin-top: 20px;
+	width: 800px;
+}
+
+.padding {
+	margin: 15px;
+}
+
+h3 {
+	padding: 0px;
+	margin: 0px;
+}
+
+p {
+	padding: 0 0 0 20px;
+	margin: 0px;
+}
+
+.answerdiv {
+	height: 400px;
+	overflow: auto;
+	padding: 0px 15px;
+}
+
+.list-group-item.active {
+	background-color: #343a40;
+	border-color: #343a40;
+	color: white;
+}
