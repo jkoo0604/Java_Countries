@@ -15,6 +15,7 @@ h3 {
 	margin: 0px;
 }
 
+
 p {
 	padding: 0 0 0 20px;
 	margin: 0px;
@@ -26,8 +27,29 @@ p {
 	padding: 0px 15px;
 }
 
+.answerdiv2 {
+	/* height: 720px;
+	overflow: auto; */
+	padding: 0px 15px;
+}
+
 .list-group-item.active {
 	background-color: #343a40;
 	border-color: #343a40;
 	color: white;
+}
+
+.page-link {
+	color: #343a40;
+}
+
+.page-item.active .page-link {
+	background-color: #343a40;
+	border-color: #343a40;
+	color: white;
+}
+
+
+a {
+	color: #343a40;
 }
